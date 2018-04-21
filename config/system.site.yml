@@ -1,0 +1,14 @@
+uuid: a518bfd4-5616-4e68-9901-2d93ba8b5321
+name: sddems-site
+mail: get.oren@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
